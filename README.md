@@ -37,5 +37,5 @@ Se abrirá una ventana con ⟨x^2⟩ vs N y su ajuste lineal.
 En consola se imprimirán ⟨x⟩, ⟨x^2⟩, la pendiente y la D estimada.
 
 
-Opción 0) Salir
+Opción 0)
 Ingresa 0 para terminar.
